@@ -8,4 +8,4 @@ Some things about me:
 - 🔭 I’m currently working on ChessTourManager project of implementing chess-drawing desktop system.
 - 🌱 I’m currently learning how to build .NET applications.
 
-<-- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aleksandernekr)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aleksandernekr)](https://github.com/anuraghazra/github-readme-stats) -->
