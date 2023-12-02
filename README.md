@@ -3,4 +3,4 @@
 [![Anurag's GitHub stats-Light](https://github-readme-stats-sigma-five.vercel.app/api?username=aleksandernekr&count_private=true&show_icons=true&theme=default&rank_icon=github#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
 
-<!-- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aleksandernekr)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- [![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=aleksandernekr&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats) -->
